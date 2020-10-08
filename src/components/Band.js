@@ -2,7 +2,7 @@ class Band extends Component {
 
   render() {
 
-    const { name } = this.props.band 
+    const { name } = this.props.band
 
     return(
         <li>
